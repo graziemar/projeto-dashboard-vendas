@@ -1,0 +1,301 @@
+id_venda,data_venda,cliente,produto,categoria,vendedor,regiao,quantidade,preco_unitario,faturamento,meta_batida
+1,2026-04-19,Freitas,Monitor,Informática,Carlos,Sul,5,3886,19430,Não
+2,2025-12-10,Freitas,Webcam,Acessórios,Fernanda,Norte,5,4977,24885,Não
+3,2026-01-03,Montenegro Pacheco - EI,Mouse,Periféricos,Carlos,Centro-Oeste,2,4718,9436,Não
+4,2025-11-11,Campos,Monitor,Informática,Carlos,Sudeste,4,515,2060,Sim
+5,2025-09-23,Câmara Almeida - ME,Tablet,Mobile,Fernanda,Sudeste,2,1523,3046,Sim
+6,2025-07-19,Leão,Headset,Áudio,Julia,Sudeste,1,411,411,Não
+7,2025-09-24,da Mota - EI,Monitor,Informática,Carlos,Norte,1,4152,4152,Sim
+8,2025-11-09,Pacheco Lima S.A.,Cadeira Gamer,Móveis,Carlos,Norte,1,2009,2009,Não
+9,2025-11-15,Barbosa,Cadeira Gamer,Móveis,Julia,Nordeste,3,3213,9639,Sim
+10,2026-03-28,Moraes Martins S/A,Cadeira Gamer,Móveis,Marcos,Sul,4,1261,5044,Sim
+11,2026-01-09,Nogueira - EI,Monitor,Informática,Marcos,Sul,2,1446,2892,Sim
+12,2025-05-27,Cirino da Conceição - EI,Tablet,Mobile,Marcos,Norte,2,3868,7736,Sim
+13,2026-04-03,Borges,Tablet,Mobile,Ana,Norte,5,4766,23830,Sim
+14,2025-07-02,Machado,Webcam,Acessórios,Fernanda,Nordeste,2,3265,6530,Não
+15,2025-06-19,Cunha Ltda.,Teclado,Periféricos,Carlos,Nordeste,2,367,734,Sim
+16,2025-05-26,Dias,Mouse,Periféricos,Carlos,Sudeste,4,1000,4000,Não
+17,2026-01-14,Costela,Webcam,Acessórios,Marcos,Sudeste,5,2098,10490,Não
+18,2026-05-13,da Costa,Monitor,Informática,Marcos,Sul,3,2571,7713,Não
+19,2025-12-20,Azevedo,Monitor,Informática,Ana,Norte,1,4453,4453,Não
+20,2025-10-06,Vieira e Filhos,Notebook,Informática,Julia,Sudeste,2,1086,2172,Sim
+21,2026-01-31,Correia,Teclado,Periféricos,Fernanda,Nordeste,1,3374,3374,Sim
+22,2025-12-13,Farias,Cadeira Gamer,Móveis,Carlos,Centro-Oeste,5,1622,8110,Sim
+23,2026-02-10,Barros,Teclado,Periféricos,Ana,Norte,5,3808,19040,Sim
+24,2025-09-16,Gonçalves Moreira S.A.,Webcam,Acessórios,Carlos,Sudeste,3,2350,7050,Não
+25,2025-12-27,Duarte,Teclado,Periféricos,Ana,Nordeste,2,1562,3124,Sim
+26,2026-04-02,Pastor,Monitor,Informática,Carlos,Centro-Oeste,1,3392,3392,Sim
+27,2025-09-16,Cirino,Tablet,Mobile,Marcos,Centro-Oeste,4,2842,11368,Não
+28,2026-01-31,Monteiro,Notebook,Informática,Fernanda,Nordeste,2,3393,6786,Não
+29,2025-05-27,Farias Azevedo - ME,Notebook,Informática,Carlos,Sul,3,2281,6843,Sim
+30,2025-07-11,Sales,Cadeira Gamer,Móveis,Fernanda,Norte,5,895,4475,Não
+31,2026-01-10,Cassiano Oliveira - ME,Cadeira Gamer,Móveis,Julia,Centro-Oeste,5,2892,14460,Não
+32,2025-10-31,Novais,Cadeira Gamer,Móveis,Ana,Norte,4,804,3216,Não
+33,2025-06-22,Jesus e Filhos,Notebook,Informática,Fernanda,Sudeste,4,2402,9608,Não
+34,2026-01-24,Ribeiro,Monitor,Informática,Fernanda,Centro-Oeste,1,2433,2433,Não
+35,2025-07-10,Sousa,Headset,Áudio,Ana,Nordeste,4,2644,10576,Sim
+36,2025-12-10,Mendonça,Cadeira Gamer,Móveis,Julia,Norte,1,947,947,Não
+37,2025-05-31,Oliveira,Mouse,Periféricos,Julia,Nordeste,2,1693,3386,Sim
+38,2026-02-26,Ramos Vasconcelos - ME,Cadeira Gamer,Móveis,Marcos,Centro-Oeste,5,4807,24035,Sim
+39,2026-05-01,Brito,Tablet,Mobile,Marcos,Sudeste,1,4691,4691,Não
+40,2025-06-24,Nascimento,Teclado,Periféricos,Marcos,Sudeste,3,2920,8760,Sim
+41,2025-12-04,Montenegro,Cadeira Gamer,Móveis,Fernanda,Centro-Oeste,2,4470,8940,Não
+42,2025-06-27,Leão Pimenta Ltda.,Mouse,Periféricos,Carlos,Norte,5,1359,6795,Não
+43,2025-11-05,Oliveira S/A,Webcam,Acessórios,Carlos,Centro-Oeste,3,100,300,Sim
+44,2025-09-29,Costa,Mouse,Periféricos,Fernanda,Centro-Oeste,4,4017,16068,Sim
+45,2025-08-07,da Conceição,Monitor,Informática,Fernanda,Nordeste,1,3040,3040,Não
+46,2025-08-24,Cardoso Mendes S/A,Headset,Áudio,Fernanda,Norte,3,945,2835,Não
+47,2025-06-24,Gonçalves Rocha S.A.,Notebook,Informática,Ana,Sudeste,2,1329,2658,Sim
+48,2025-10-26,Costela,Monitor,Informática,Marcos,Norte,1,3459,3459,Sim
+49,2025-10-30,Pinto,Tablet,Mobile,Carlos,Sul,5,402,2010,Sim
+50,2025-07-02,Costa Moura e Filhos,Webcam,Acessórios,Fernanda,Norte,3,1163,3489,Sim
+51,2025-07-28,Cunha,Headset,Áudio,Ana,Centro-Oeste,1,2026,2026,Sim
+52,2025-09-17,Araújo,Mouse,Periféricos,Fernanda,Centro-Oeste,4,619,2476,Não
+53,2026-04-05,Lopes S/A,Webcam,Acessórios,Fernanda,Sul,1,4229,4229,Não
+54,2025-11-23,Costela Borges - ME,Webcam,Acessórios,Fernanda,Norte,1,3464,3464,Não
+55,2025-07-20,Ferreira,Teclado,Periféricos,Marcos,Nordeste,5,194,970,Sim
+56,2026-02-21,da Mata - ME,Cadeira Gamer,Móveis,Julia,Nordeste,1,4199,4199,Não
+57,2025-09-15,Brito,Teclado,Periféricos,Carlos,Centro-Oeste,3,4344,13032,Não
+58,2025-11-10,Gonçalves S.A.,Cadeira Gamer,Móveis,Fernanda,Nordeste,2,994,1988,Sim
+59,2025-11-23,Nogueira,Tablet,Mobile,Marcos,Sudeste,2,4015,8030,Não
+60,2026-04-14,Vasconcelos,Headset,Áudio,Julia,Sudeste,2,4940,9880,Não
+61,2025-12-21,Pacheco,Monitor,Informática,Marcos,Norte,1,883,883,Sim
+62,2026-01-18,Aparecida Ltda.,Monitor,Informática,Julia,Centro-Oeste,1,2861,2861,Sim
+63,2025-12-19,Cavalcante,Headset,Áudio,Carlos,Nordeste,3,3721,11163,Sim
+64,2025-12-16,Cunha Sá S.A.,Cadeira Gamer,Móveis,Fernanda,Nordeste,2,3904,7808,Sim
+65,2025-06-14,Macedo,Notebook,Informática,Julia,Sudeste,3,1197,3591,Sim
+66,2026-02-13,Araújo,Mouse,Periféricos,Ana,Sudeste,3,1290,3870,Sim
+67,2025-11-03,Vasconcelos,Teclado,Periféricos,Marcos,Sudeste,3,456,1368,Sim
+68,2025-10-24,Oliveira,Headset,Áudio,Marcos,Sul,2,4085,8170,Sim
+69,2025-10-26,Moreira,Cadeira Gamer,Móveis,Ana,Centro-Oeste,5,932,4660,Não
+70,2025-12-30,Vieira Castro S/A,Cadeira Gamer,Móveis,Carlos,Sul,5,3709,18545,Não
+71,2025-08-04,Alves,Notebook,Informática,Ana,Sul,5,706,3530,Não
+72,2026-04-27,Campos,Teclado,Periféricos,Fernanda,Centro-Oeste,2,1228,2456,Não
+73,2026-01-03,Nascimento Ltda.,Teclado,Periféricos,Julia,Centro-Oeste,4,202,808,Sim
+74,2026-04-27,da Rocha,Cadeira Gamer,Móveis,Marcos,Centro-Oeste,4,4943,19772,Sim
+75,2025-10-26,Peixoto,Tablet,Mobile,Julia,Centro-Oeste,4,4472,17888,Sim
+76,2025-08-28,da Cruz,Notebook,Informática,Julia,Sudeste,3,2600,7800,Sim
+77,2026-02-02,Novaes S.A.,Monitor,Informática,Marcos,Sul,4,3876,15504,Sim
+78,2026-01-17,Alves - ME,Notebook,Informática,Julia,Norte,5,4901,24505,Não
+79,2025-09-20,Cirino Ltda.,Notebook,Informática,Ana,Norte,4,2685,10740,Sim
+80,2026-02-02,Pimenta,Mouse,Periféricos,Ana,Centro-Oeste,4,3224,12896,Não
+81,2026-02-27,da Cruz,Tablet,Mobile,Fernanda,Norte,4,4110,16440,Sim
+82,2025-12-23,Aragão,Mouse,Periféricos,Marcos,Nordeste,3,2007,6021,Sim
+83,2025-12-26,Gonçalves - ME,Tablet,Mobile,Fernanda,Centro-Oeste,4,3184,12736,Sim
+84,2025-06-12,Duarte Câmara e Filhos,Mouse,Periféricos,Ana,Sudeste,1,4380,4380,Não
+85,2025-07-05,Guerra Costa e Filhos,Headset,Áudio,Fernanda,Nordeste,3,4592,13776,Sim
+86,2025-05-23,Santos,Teclado,Periféricos,Marcos,Sudeste,2,3605,7210,Sim
+87,2025-07-03,Correia,Webcam,Acessórios,Ana,Nordeste,5,4009,20045,Não
+88,2025-10-30,Casa Grande,Notebook,Informática,Ana,Centro-Oeste,3,321,963,Sim
+89,2025-06-13,Moreira,Teclado,Periféricos,Ana,Centro-Oeste,3,294,882,Não
+90,2025-07-22,Sales Aragão - ME,Cadeira Gamer,Móveis,Fernanda,Centro-Oeste,5,2997,14985,Não
+91,2026-02-24,Brito,Monitor,Informática,Ana,Nordeste,1,442,442,Sim
+92,2026-02-19,Câmara,Mouse,Periféricos,Ana,Norte,4,4491,17964,Sim
+93,2026-01-24,Cavalcanti - ME,Cadeira Gamer,Móveis,Fernanda,Sudeste,4,1761,7044,Sim
+94,2026-02-13,Lima,Monitor,Informática,Julia,Centro-Oeste,3,897,2691,Sim
+95,2026-05-04,da Rosa Ltda.,Mouse,Periféricos,Julia,Centro-Oeste,2,3027,6054,Sim
+96,2025-07-04,Andrade,Notebook,Informática,Ana,Sudeste,2,4760,9520,Não
+97,2025-08-02,Oliveira S.A.,Monitor,Informática,Carlos,Centro-Oeste,5,3343,16715,Não
+98,2025-07-15,Alves,Cadeira Gamer,Móveis,Fernanda,Sul,4,2902,11608,Não
+99,2025-07-27,das Neves Sá S.A.,Headset,Áudio,Julia,Sudeste,2,2768,5536,Sim
+100,2025-09-18,Rocha Araújo S/A,Tablet,Mobile,Marcos,Sul,4,3775,15100,Não
+101,2026-01-08,Rocha S.A.,Monitor,Informática,Ana,Centro-Oeste,1,4585,4585,Não
+102,2025-07-16,Sousa,Notebook,Informática,Fernanda,Sudeste,3,3114,9342,Sim
+103,2025-07-16,Araújo - EI,Mouse,Periféricos,Ana,Centro-Oeste,3,489,1467,Não
+104,2025-07-28,Marques,Teclado,Periféricos,Fernanda,Sudeste,5,2306,11530,Sim
+105,2025-05-31,Machado Sales e Filhos,Tablet,Mobile,Ana,Sudeste,5,3051,15255,Não
+106,2025-07-24,Lima S/A,Mouse,Periféricos,Fernanda,Norte,5,1270,6350,Não
+107,2026-01-18,Carvalho,Mouse,Periféricos,Carlos,Norte,1,4499,4499,Sim
+108,2025-11-26,Azevedo,Monitor,Informática,Carlos,Sul,5,4613,23065,Não
+109,2025-10-04,Rezende,Monitor,Informática,Julia,Sul,3,3340,10020,Não
+110,2026-04-19,da Paz,Webcam,Acessórios,Marcos,Nordeste,1,2883,2883,Sim
+111,2026-01-02,Macedo,Tablet,Mobile,Fernanda,Nordeste,5,4242,21210,Sim
+112,2025-06-13,Carvalho Aparecida S.A.,Tablet,Mobile,Fernanda,Centro-Oeste,1,3160,3160,Sim
+113,2025-12-20,Cavalcante,Tablet,Mobile,Carlos,Sudeste,3,709,2127,Não
+114,2025-07-05,Mendes,Monitor,Informática,Carlos,Nordeste,5,233,1165,Sim
+115,2026-04-03,Ferreira e Filhos,Mouse,Periféricos,Marcos,Centro-Oeste,2,1265,2530,Não
+116,2025-07-07,Cirino Ltda.,Monitor,Informática,Julia,Sudeste,4,1219,4876,Não
+117,2025-05-23,Costela,Tablet,Mobile,Carlos,Centro-Oeste,1,2163,2163,Sim
+118,2025-10-12,Silva e Filhos,Mouse,Periféricos,Carlos,Nordeste,2,4485,8970,Sim
+119,2025-11-21,Martins - ME,Monitor,Informática,Ana,Sul,3,1758,5274,Não
+120,2025-12-25,Fogaça,Teclado,Periféricos,Marcos,Norte,4,4394,17576,Não
+121,2025-08-23,Souza S/A,Tablet,Mobile,Fernanda,Nordeste,3,1626,4878,Não
+122,2025-12-30,Vieira S/A,Teclado,Periféricos,Julia,Nordeste,2,1897,3794,Não
+123,2025-08-22,Peixoto,Cadeira Gamer,Móveis,Ana,Norte,1,1097,1097,Não
+124,2026-03-12,Carvalho S/A,Teclado,Periféricos,Fernanda,Sul,1,3464,3464,Não
+125,2026-02-20,Araújo Alves - EI,Cadeira Gamer,Móveis,Julia,Sul,1,1295,1295,Não
+126,2025-08-10,Guerra,Tablet,Mobile,Marcos,Centro-Oeste,1,4651,4651,Sim
+127,2025-11-23,Rodrigues,Webcam,Acessórios,Marcos,Sul,1,3362,3362,Não
+128,2025-09-07,Fernandes Ltda.,Tablet,Mobile,Ana,Norte,2,1455,2910,Sim
+129,2026-02-27,Guerra Melo Ltda.,Monitor,Informática,Ana,Norte,2,2942,5884,Sim
+130,2026-04-22,Fogaça Abreu - EI,Headset,Áudio,Julia,Norte,3,1846,5538,Não
+131,2025-06-25,Costela Dias Ltda.,Teclado,Periféricos,Carlos,Norte,2,3601,7202,Não
+132,2025-06-17,Carvalho,Headset,Áudio,Marcos,Sudeste,5,2198,10990,Sim
+133,2026-02-08,Macedo da Cunha S/A,Monitor,Informática,Carlos,Sul,3,1369,4107,Não
+134,2026-02-01,da Paz Ltda.,Mouse,Periféricos,Julia,Centro-Oeste,5,3225,16125,Sim
+135,2026-02-06,Brito,Monitor,Informática,Julia,Sudeste,4,2796,11184,Sim
+136,2025-05-25,Cassiano,Tablet,Mobile,Ana,Centro-Oeste,1,1807,1807,Sim
+137,2025-07-13,Leão,Tablet,Mobile,Marcos,Nordeste,4,1393,5572,Sim
+138,2025-07-14,Viana,Cadeira Gamer,Móveis,Ana,Sul,3,935,2805,Sim
+139,2026-04-19,Siqueira,Webcam,Acessórios,Marcos,Sudeste,2,456,912,Não
+140,2026-04-26,da Conceição da Mata - EI,Headset,Áudio,Marcos,Nordeste,1,3503,3503,Sim
+141,2026-04-12,Campos,Tablet,Mobile,Fernanda,Sul,2,3297,6594,Sim
+142,2025-06-13,Garcia,Monitor,Informática,Fernanda,Centro-Oeste,3,115,345,Não
+143,2025-05-25,Duarte Pimenta S.A.,Monitor,Informática,Julia,Norte,5,2982,14910,Não
+144,2026-02-15,Dias S/A,Headset,Áudio,Fernanda,Nordeste,1,2705,2705,Sim
+145,2026-01-04,Machado,Notebook,Informática,Marcos,Centro-Oeste,4,3715,14860,Sim
+146,2025-09-06,Campos - EI,Mouse,Periféricos,Carlos,Centro-Oeste,3,4796,14388,Sim
+147,2026-03-27,Silva,Headset,Áudio,Carlos,Sudeste,2,2868,5736,Não
+148,2026-03-25,da Mota,Tablet,Mobile,Ana,Sul,2,1035,2070,Não
+149,2025-10-24,Cirino Aragão - EI,Monitor,Informática,Carlos,Sul,1,4400,4400,Sim
+150,2025-08-07,Ferreira Melo S.A.,Tablet,Mobile,Ana,Nordeste,5,470,2350,Sim
+151,2025-07-08,Oliveira,Mouse,Periféricos,Carlos,Sul,1,2913,2913,Sim
+152,2025-12-15,da Luz Fogaça e Filhos,Tablet,Mobile,Fernanda,Sul,2,1055,2110,Não
+153,2025-06-26,Sousa Ltda.,Tablet,Mobile,Ana,Sul,2,2297,4594,Não
+154,2026-03-19,Peixoto,Notebook,Informática,Julia,Centro-Oeste,5,570,2850,Sim
+155,2026-04-04,Fonseca,Cadeira Gamer,Móveis,Fernanda,Nordeste,1,4608,4608,Sim
+156,2025-12-12,Duarte Dias e Filhos,Webcam,Acessórios,Ana,Sul,1,4105,4105,Sim
+157,2025-10-04,Machado,Headset,Áudio,Marcos,Sudeste,4,3364,13456,Não
+158,2026-02-13,Andrade,Notebook,Informática,Ana,Sudeste,2,4950,9900,Não
+159,2025-11-27,Araújo e Filhos,Tablet,Mobile,Marcos,Sudeste,4,175,700,Não
+160,2025-06-10,Cardoso - EI,Mouse,Periféricos,Julia,Nordeste,1,2483,2483,Não
+161,2025-12-07,Silveira,Notebook,Informática,Carlos,Sul,5,2453,12265,Não
+162,2026-04-05,Albuquerque,Headset,Áudio,Fernanda,Sul,4,805,3220,Sim
+163,2025-05-18,Cunha,Monitor,Informática,Marcos,Nordeste,3,2215,6645,Sim
+164,2026-02-22,Pimenta Sales Ltda.,Tablet,Mobile,Julia,Centro-Oeste,3,2499,7497,Sim
+165,2025-11-05,Teixeira,Webcam,Acessórios,Marcos,Sudeste,1,4009,4009,Sim
+166,2025-09-13,Vasconcelos Jesus S/A,Mouse,Periféricos,Ana,Centro-Oeste,3,1772,5316,Não
+167,2026-03-25,Martins Nascimento S.A.,Cadeira Gamer,Móveis,Julia,Centro-Oeste,5,1597,7985,Não
+168,2026-03-11,Cardoso - ME,Webcam,Acessórios,Ana,Sul,3,3666,10998,Não
+169,2025-06-12,Lopes Farias Ltda.,Tablet,Mobile,Julia,Norte,2,4492,8984,Sim
+170,2026-01-14,Mendonça,Notebook,Informática,Marcos,Nordeste,5,1686,8430,Não
+171,2026-03-10,Cassiano S/A,Notebook,Informática,Carlos,Sul,2,3049,6098,Não
+172,2025-08-09,Vargas Sampaio e Filhos,Monitor,Informática,Ana,Nordeste,5,1492,7460,Sim
+173,2025-10-28,Almeida,Cadeira Gamer,Móveis,Carlos,Norte,1,3430,3430,Não
+174,2026-04-28,das Neves Ltda.,Cadeira Gamer,Móveis,Ana,Centro-Oeste,4,4668,18672,Sim
+175,2026-04-02,Lima,Webcam,Acessórios,Julia,Sudeste,5,895,4475,Não
+176,2025-06-14,Gonçalves Rios S/A,Teclado,Periféricos,Julia,Sul,2,1881,3762,Sim
+177,2025-06-23,Cassiano Teixeira - EI,Headset,Áudio,Carlos,Sudeste,3,639,1917,Sim
+178,2025-05-31,Fernandes Câmara e Filhos,Headset,Áudio,Marcos,Centro-Oeste,1,2911,2911,Sim
+179,2025-06-25,Mendonça,Headset,Áudio,Carlos,Norte,1,3098,3098,Sim
+180,2026-04-26,Cunha Campos e Filhos,Cadeira Gamer,Móveis,Carlos,Sudeste,1,1054,1054,Sim
+181,2025-09-08,Aparecida S/A,Mouse,Periféricos,Marcos,Sudeste,1,4114,4114,Não
+182,2025-05-15,Cardoso,Headset,Áudio,Carlos,Norte,4,1308,5232,Sim
+183,2025-11-15,Novais Sales Ltda.,Cadeira Gamer,Móveis,Julia,Sul,4,4721,18884,Não
+184,2025-11-22,Rezende Guerra e Filhos,Monitor,Informática,Marcos,Norte,3,1262,3786,Sim
+185,2025-08-03,Barbosa,Monitor,Informática,Carlos,Norte,1,3341,3341,Sim
+186,2026-03-16,Lima Melo - ME,Headset,Áudio,Fernanda,Sul,3,3769,11307,Sim
+187,2026-05-10,Melo S/A,Mouse,Periféricos,Julia,Sudeste,1,3471,3471,Não
+188,2026-03-22,Cavalcanti,Cadeira Gamer,Móveis,Carlos,Nordeste,3,3114,9342,Sim
+189,2025-08-06,Albuquerque,Cadeira Gamer,Móveis,Julia,Centro-Oeste,3,1412,4236,Sim
+190,2026-02-15,Sales,Notebook,Informática,Marcos,Nordeste,3,714,2142,Sim
+191,2026-03-15,Monteiro,Headset,Áudio,Julia,Nordeste,2,2652,5304,Não
+192,2025-06-27,Leão,Monitor,Informática,Marcos,Nordeste,5,2035,10175,Não
+193,2025-07-22,Fogaça S/A,Notebook,Informática,Fernanda,Sudeste,5,3107,15535,Não
+194,2026-05-10,Andrade,Webcam,Acessórios,Ana,Sul,3,462,1386,Não
+195,2025-06-10,da Rosa e Filhos,Headset,Áudio,Marcos,Centro-Oeste,4,1944,7776,Sim
+196,2025-11-23,Araújo Fernandes Ltda.,Webcam,Acessórios,Marcos,Nordeste,3,1558,4674,Sim
+197,2026-04-18,Vargas,Monitor,Informática,Ana,Centro-Oeste,2,2487,4974,Sim
+198,2025-12-16,Jesus Ramos Ltda.,Headset,Áudio,Fernanda,Nordeste,3,1348,4044,Sim
+199,2026-02-16,Freitas,Mouse,Periféricos,Julia,Norte,3,1591,4773,Não
+200,2026-05-06,Rios - EI,Notebook,Informática,Marcos,Centro-Oeste,1,1273,1273,Não
+201,2025-11-12,da Paz Rezende - EI,Cadeira Gamer,Móveis,Fernanda,Centro-Oeste,4,3495,13980,Sim
+202,2026-02-19,Brito Carvalho - ME,Notebook,Informática,Carlos,Norte,2,3377,6754,Sim
+203,2026-02-08,Vasconcelos S/A,Teclado,Periféricos,Marcos,Centro-Oeste,4,3544,14176,Sim
+204,2025-08-19,Montenegro,Headset,Áudio,Marcos,Sul,5,750,3750,Não
+205,2026-04-05,Melo Dias - ME,Cadeira Gamer,Móveis,Julia,Sudeste,3,1073,3219,Não
+206,2025-12-05,Moura,Mouse,Periféricos,Fernanda,Sudeste,5,3592,17960,Não
+207,2025-09-05,Almeida,Monitor,Informática,Fernanda,Norte,2,3752,7504,Sim
+208,2025-12-03,Lima,Webcam,Acessórios,Julia,Sul,4,289,1156,Sim
+209,2025-06-16,Moraes,Teclado,Periféricos,Carlos,Norte,4,1059,4236,Sim
+210,2026-01-22,Porto,Notebook,Informática,Julia,Sudeste,3,1677,5031,Sim
+211,2026-05-06,da Costa,Monitor,Informática,Julia,Sudeste,2,2513,5026,Não
+212,2026-01-31,Sá,Webcam,Acessórios,Carlos,Centro-Oeste,3,694,2082,Não
+213,2025-11-28,da Mata Costa S.A.,Headset,Áudio,Carlos,Centro-Oeste,4,2654,10616,Não
+214,2026-03-12,Souza,Mouse,Periféricos,Marcos,Centro-Oeste,4,4462,17848,Não
+215,2026-04-20,Araújo,Webcam,Acessórios,Ana,Norte,3,1628,4884,Não
+216,2025-11-13,Sampaio,Cadeira Gamer,Móveis,Julia,Sudeste,4,1851,7404,Não
+217,2025-09-26,Rios Ribeiro - EI,Headset,Áudio,Carlos,Sul,4,1387,5548,Sim
+218,2025-09-19,Duarte,Cadeira Gamer,Móveis,Fernanda,Sul,3,1084,3252,Sim
+219,2026-04-21,Melo,Monitor,Informática,Julia,Centro-Oeste,5,2046,10230,Sim
+220,2025-09-23,Novais,Notebook,Informática,Marcos,Sudeste,5,4016,20080,Não
+221,2025-05-29,Sales - EI,Webcam,Acessórios,Fernanda,Sul,1,3403,3403,Sim
+222,2026-03-13,Fernandes S.A.,Tablet,Mobile,Julia,Sul,3,2672,8016,Não
+223,2025-07-31,Nunes,Cadeira Gamer,Móveis,Fernanda,Sul,4,722,2888,Sim
+224,2025-07-30,Moura Ltda.,Tablet,Mobile,Fernanda,Norte,3,1771,5313,Sim
+225,2025-05-30,Leão,Monitor,Informática,Carlos,Norte,1,4928,4928,Não
+226,2025-10-29,Sá,Tablet,Mobile,Marcos,Nordeste,5,1103,5515,Sim
+227,2025-08-28,Melo Ltda.,Notebook,Informática,Fernanda,Sudeste,1,4511,4511,Não
+228,2025-12-08,Martins,Notebook,Informática,Ana,Centro-Oeste,3,633,1899,Sim
+229,2026-01-04,Pires - ME,Monitor,Informática,Carlos,Norte,4,162,648,Sim
+230,2025-08-27,Camargo Campos - EI,Webcam,Acessórios,Fernanda,Nordeste,5,2611,13055,Sim
+231,2026-02-02,Macedo,Headset,Áudio,Ana,Centro-Oeste,1,4934,4934,Não
+232,2026-01-29,Cavalcante,Webcam,Acessórios,Julia,Sudeste,4,1135,4540,Não
+233,2025-10-17,da Luz,Monitor,Informática,Julia,Sudeste,3,4145,12435,Não
+234,2025-06-13,Moraes Siqueira S.A.,Tablet,Mobile,Fernanda,Nordeste,2,3498,6996,Não
+235,2025-06-01,Fogaça Mendonça - EI,Webcam,Acessórios,Ana,Norte,4,916,3664,Sim
+236,2025-07-29,Camargo - ME,Webcam,Acessórios,Ana,Sudeste,2,1856,3712,Sim
+237,2025-06-09,Rodrigues Ltda.,Monitor,Informática,Marcos,Sudeste,5,4827,24135,Sim
+238,2025-09-03,Cardoso - EI,Cadeira Gamer,Móveis,Ana,Sul,1,738,738,Sim
+239,2025-10-15,Santos,Webcam,Acessórios,Fernanda,Sudeste,5,920,4600,Sim
+240,2026-03-05,da Rocha,Cadeira Gamer,Móveis,Fernanda,Sudeste,3,792,2376,Sim
+241,2026-05-11,Duarte,Teclado,Periféricos,Julia,Centro-Oeste,5,4522,22610,Sim
+242,2025-05-21,da Rocha,Headset,Áudio,Fernanda,Sudeste,2,3314,6628,Sim
+243,2025-11-28,Gomes S.A.,Teclado,Periféricos,Fernanda,Sul,4,2670,10680,Sim
+244,2025-09-27,Costela da Rosa e Filhos,Notebook,Informática,Julia,Sul,4,4812,19248,Não
+245,2025-09-30,Farias - EI,Cadeira Gamer,Móveis,Julia,Sudeste,5,2648,13240,Não
+246,2025-11-28,Castro,Tablet,Mobile,Ana,Sul,3,3727,11181,Sim
+247,2025-09-29,Lopes,Webcam,Acessórios,Marcos,Nordeste,2,1295,2590,Não
+248,2025-06-03,Machado,Notebook,Informática,Marcos,Sudeste,3,1149,3447,Sim
+249,2025-12-02,Azevedo S.A.,Monitor,Informática,Carlos,Sul,3,1474,4422,Sim
+250,2026-03-08,Garcia,Headset,Áudio,Marcos,Norte,1,4792,4792,Sim
+251,2025-11-07,Carvalho S/A,Cadeira Gamer,Móveis,Ana,Sul,1,2060,2060,Sim
+252,2026-04-06,Gomes,Cadeira Gamer,Móveis,Julia,Sudeste,4,2536,10144,Sim
+253,2025-12-30,Araújo,Mouse,Periféricos,Carlos,Centro-Oeste,5,1003,5015,Não
+254,2026-02-16,Campos,Cadeira Gamer,Móveis,Carlos,Sul,1,2256,2256,Sim
+255,2025-05-26,Pereira,Notebook,Informática,Carlos,Sul,2,562,1124,Sim
+256,2025-12-31,Peixoto,Cadeira Gamer,Móveis,Ana,Centro-Oeste,4,4480,17920,Sim
+257,2026-02-02,Rezende,Mouse,Periféricos,Julia,Norte,5,2064,10320,Não
+258,2026-04-20,da Paz,Webcam,Acessórios,Fernanda,Norte,5,2297,11485,Não
+259,2025-08-29,Santos,Headset,Áudio,Marcos,Centro-Oeste,3,1038,3114,Não
+260,2025-07-26,Moreira,Webcam,Acessórios,Julia,Centro-Oeste,2,1213,2426,Não
+261,2025-10-16,Ribeiro Ltda.,Teclado,Periféricos,Julia,Sudeste,5,1755,8775,Não
+262,2026-05-05,Azevedo Jesus e Filhos,Teclado,Periféricos,Carlos,Nordeste,2,787,1574,Sim
+263,2025-11-18,Rodrigues,Headset,Áudio,Ana,Nordeste,1,1202,1202,Sim
+264,2025-12-21,Barros e Filhos,Teclado,Periféricos,Carlos,Norte,1,3139,3139,Sim
+265,2025-12-19,Caldeira Vieira - EI,Teclado,Periféricos,Marcos,Nordeste,4,1186,4744,Não
+266,2026-04-08,Barros,Headset,Áudio,Ana,Sul,2,2599,5198,Sim
+267,2025-06-12,Pereira Nogueira - EI,Monitor,Informática,Julia,Sudeste,5,3722,18610,Sim
+268,2026-04-16,Campos,Webcam,Acessórios,Marcos,Centro-Oeste,2,4968,9936,Sim
+269,2025-12-28,Novaes S.A.,Headset,Áudio,Fernanda,Sudeste,4,3967,15868,Não
+270,2025-06-16,Castro,Monitor,Informática,Fernanda,Nordeste,1,114,114,Não
+271,2025-10-24,Sá Nunes S/A,Tablet,Mobile,Julia,Sul,1,755,755,Sim
+272,2026-03-11,Vasconcelos Martins S.A.,Webcam,Acessórios,Fernanda,Centro-Oeste,4,1838,7352,Sim
+273,2025-11-26,Vargas,Monitor,Informática,Carlos,Nordeste,5,639,3195,Sim
+274,2026-02-01,Farias Rodrigues - ME,Cadeira Gamer,Móveis,Carlos,Centro-Oeste,4,1518,6072,Não
+275,2025-08-06,Cunha,Headset,Áudio,Fernanda,Sudeste,2,3839,7678,Não
+276,2025-08-22,Cardoso Ribeiro S/A,Tablet,Mobile,Fernanda,Sul,1,3726,3726,Sim
+277,2025-06-25,Souza,Teclado,Periféricos,Fernanda,Norte,2,4550,9100,Sim
+278,2026-04-10,Rocha,Mouse,Periféricos,Ana,Sudeste,1,4261,4261,Sim
+279,2025-12-13,Duarte S.A.,Webcam,Acessórios,Fernanda,Centro-Oeste,2,2570,5140,Sim
+280,2025-06-07,Sales,Webcam,Acessórios,Fernanda,Norte,3,2669,8007,Não
+281,2025-12-27,Cunha - EI,Mouse,Periféricos,Carlos,Centro-Oeste,5,3275,16375,Não
+282,2026-04-01,Andrade,Cadeira Gamer,Móveis,Ana,Centro-Oeste,1,4708,4708,Sim
+283,2026-01-30,Novais e Filhos,Headset,Áudio,Ana,Norte,5,4356,21780,Não
+284,2026-05-11,da Costa,Mouse,Periféricos,Fernanda,Norte,5,552,2760,Não
+285,2026-03-25,Barbosa,Cadeira Gamer,Móveis,Fernanda,Sudeste,1,2369,2369,Não
+286,2025-06-17,Rios,Headset,Áudio,Julia,Sul,2,2819,5638,Não
+287,2025-06-01,Moreira Andrade Ltda.,Cadeira Gamer,Móveis,Carlos,Sul,4,4382,17528,Sim
+288,2025-06-18,Pastor,Cadeira Gamer,Móveis,Julia,Sul,1,1140,1140,Não
+289,2025-07-28,Vieira,Cadeira Gamer,Móveis,Fernanda,Norte,2,4166,8332,Não
+290,2025-06-15,Guerra - ME,Notebook,Informática,Julia,Centro-Oeste,5,4501,22505,Sim
+291,2026-01-12,Santos Pereira Ltda.,Mouse,Periféricos,Marcos,Sudeste,5,4631,23155,Sim
+292,2026-01-11,Cirino,Webcam,Acessórios,Marcos,Sul,2,3005,6010,Não
+293,2025-11-28,Pereira Souza Ltda.,Tablet,Mobile,Ana,Nordeste,1,4747,4747,Sim
+294,2025-08-01,Montenegro,Headset,Áudio,Julia,Sul,5,1470,7350,Sim
+295,2025-11-27,Oliveira,Webcam,Acessórios,Julia,Norte,2,4724,9448,Não
+296,2025-10-30,Santos Pinto - EI,Teclado,Periféricos,Julia,Norte,2,3337,6674,Sim
+297,2025-07-06,Borges Cunha - ME,Tablet,Mobile,Fernanda,Sudeste,2,3149,6298,Sim
+298,2025-10-12,Campos,Webcam,Acessórios,Fernanda,Sul,5,2880,14400,Sim
+299,2026-03-29,Brito,Cadeira Gamer,Móveis,Fernanda,Nordeste,3,2680,8040,Sim
+300,2026-02-16,Pires,Notebook,Informática,Fernanda,Centro-Oeste,4,1458,5832,Sim
